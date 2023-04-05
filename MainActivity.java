@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private EditText input_TextBox;
     private TextView output_TextView;
     private Button helpb;
-    private Button del;www
+    private Button del;
 
     String About_us = " Бұл бағдарлама ММИ \"Дарын\"-ның Дүйсен Бірханым мен Сейсеков Алинұр оқушыларымен ғылими жоба үшін жасалған." +
             "\nЭто приложение создано в рамках научного проекта учениками СШИ \"Дарын\" Дуйсен Бирханым  и Сейсековым Алинуром.";
